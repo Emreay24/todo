@@ -1,0 +1,14 @@
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\todo\bin\Debug\net8.0\todo.exe
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\todo\bin\Debug\net8.0\todo.deps.json
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\todo\bin\Debug\net8.0\todo.runtimeconfig.json
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\todo\bin\Debug\net8.0\todo.dll
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\todo\bin\Debug\net8.0\todo.pdb
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\todo\obj\Debug\net8.0\todo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\todo\obj\Debug\net8.0\todo.AssemblyInfoInputs.cache
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\todo\obj\Debug\net8.0\todo.AssemblyInfo.cs
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\todo\obj\Debug\net8.0\todo.csproj.CoreCompileInputs.cache
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\todo\obj\Debug\net8.0\todo.dll
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\todo\obj\Debug\net8.0\refint\todo.dll
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\todo\obj\Debug\net8.0\todo.pdb
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\todo\obj\Debug\net8.0\todo.genruntimeconfig.cache
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\todo\obj\Debug\net8.0\ref\todo.dll
